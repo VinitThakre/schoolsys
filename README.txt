@@ -1,5 +1,5 @@
 1- What is this?
-    * This is a Joomlla! installation/upgrade package to version 2.5.x
+    * This is a Joomla! installation/upgrade package to version 2.5.x
     * Joomla! Official site: http://www.joomla.org
     * Joomla 2.5 version history - http://docs.joomla.org/Joomla_2.5_version_history
     * Detailed changes in the Changelog: http://joomlacode.org/gf/project/joomla/scmsvn/?action=browse&path=/development/trunk/administrator/&view=log
