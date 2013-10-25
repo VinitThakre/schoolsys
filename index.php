@@ -16,7 +16,7 @@ if (file_exists(dirname(__FILE__) . '/defines.php')) {
 if (!defined('_JDEFINES')) {
 	define('JPATH_BASE', dirname(__FILE__));
 	require_once JPATH_BASE.'/includes/defines.php';
-}
+} 
 
 require_once JPATH_BASE.'/includes/framework.php';
 
